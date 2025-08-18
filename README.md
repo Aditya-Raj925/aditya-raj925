@@ -59,7 +59,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aditya-Raj925&style=for-the-badge&color=blue" alt="Profile Views" />
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=radical&bg_color=0D1117&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Raj925&theme=radical&bg_color=0D1117&hide_border=true" />
 </p>
 
 ---
